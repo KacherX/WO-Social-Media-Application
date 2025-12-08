@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370086964182",
+    "project_id": "wo-app-5ed20",
+    "storage_bucket": "wo-app-5ed20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370086964182:android:bd24a9e998c9d36e3ed277",
+        "android_client_info": {
+          "package_name": "wo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNrdIVnOygkbbj28YQz4kGwqmLL1ro2z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
