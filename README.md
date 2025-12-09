@@ -1,16 +1,1 @@
-# wo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A location-based social media application designed to help users discover, filter, and interact with nearby venues. Built with Flutter for cross-platform UI, Firebase for backend services (authentication, real-time database, and media storage), and Google Places API for retrieving place information, the app offers a rich, community-oriented experience. Users can view nearby spots, add photos and reviews, follow friends, and see their activity feeds, while also customizing their profiles and preferences.
